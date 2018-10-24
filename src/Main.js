@@ -11,7 +11,7 @@ const cards = [
     <Card Header="Downloads" Text="Most recent folder" image={folder}/>,
     <Card Header="Collections.ppt" Text="Team with three" Content="As a result, reads from the cache require minimal work and can be optimized to constant time lookups in some cases there may be additional fields."/>,
     <Card Header="Salary" Text="December Month" image={excelimage}/>,
-    <Card Header="Notes" Text="hsgdhjs" Content="An experimental cache implementation for Apollo Client, tuned for the performance of heavy GraphQL payloads."/>,
+    <Card Header="Notes" Text="hsgdhjs" Content="An experimental for Apollo Client, tuned for the performance of heavy GraphQL payloads."/>,
     <Card Header="Important" Text="hsgdhjs" image={folder}/>,
     <Card Header="Tasks " Text="Completed ones" Content="Complete Task 1 .o test that two values were exactly identical. To learn about the other things that Jest can test, "/>,
   ]
